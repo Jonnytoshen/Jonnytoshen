@@ -1,4 +1,4 @@
-# Hi, I'm Chao! 👋
+## Hi, I'm Chao! 👋
 
 I'm a 10+ years Full-stack Engineer specializing in the Angular ecosystem.
 
@@ -7,14 +7,14 @@ I'm a 10+ years Full-stack Engineer specializing in the Angular ecosystem.
 - 🌱 Learning: Integrating AI into Modern Web Workflows
 - 🤝 Open Source: Actively contributing and building for the community
 
-## 🛠 Skills
+### 🛠 Skills
 
 - **Core Technologies**: HTML, CSS, JavaScript, TypeScript
 - **Frameworks**: Angular, NestJS, OpenLayers
 - **Design Tools**: Figma, Tailwind CSS
 - **Operating Systems**: Linux (Ubuntu), macOS
 
-## 🤝🏻 Connect with Me
+### 🤝🏻 Connect with Me
 
 Feel free to reach out and connect with me on the following platforms:
 
