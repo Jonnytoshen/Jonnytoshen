@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Chao! 👋
 
-<!--
-**Jonnytoshen/Jonnytoshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 10+ years Full-stack Engineer specializing in the Angular ecosystem.
 
-Here are some ideas to get you started:
+- 🔭 Focus: Complex Enterprise Architecture & Web Performance
+- ⚙️ Practices: CI/CD, Engineering Automation, Code Quality
+- 🌱 Learning: Integrating AI into Modern Web Workflows
+- 🤝 Open Source: Actively contributing and building for the community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- **Core Technologies**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: Angular, NestJS, OpenLayers
+- **Design Tools**: Figma, Tailwind CSS
+- **Operating Systems**: Linux (Ubuntu), macOS
+
+## 🤝🏻 Connect with Me
+
+Feel free to reach out and connect with me on the following platforms:
+
+- 📫 jonnytoshen@gmail.com
