@@ -1,6 +1,6 @@
 ## Hi, I'm Chao! 👋
 
-I'm a 10+ years Full-stack Engineer specializing in the Angular ecosystem.
+I'm a 10+ years Front-End Developer specializing in the Angular ecosystem.
 
 - 🔭 Focus: Complex Enterprise Architecture & Web Performance
 - ⚙️ Practices: CI/CD, Engineering Automation, Code Quality
