@@ -9,7 +9,7 @@ I'm a 10+ years Front-End Developer specializing in the Angular ecosystem.
 
 ### 🛠 Skills
 
-- **Core Technologies**: HTML, CSS, JavaScript, TypeScript，Python
+- **Core Technologies**: HTML, CSS, JavaScript, TypeScript, Python
 - **Frameworks**: Angular, NestJS, OpenLayers
 - **Design Tools**: Figma, Tailwind CSS
 - **Operating Systems**: Linux (Ubuntu), macOS
